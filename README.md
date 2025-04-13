@@ -1,3 +1,8 @@
+# X-ray 스마트팜 플랫폼
+
+레포지토리 private 상태로 결과 보고서 첨부!
+---
+
 # Harang 2023
 
 ## 환경 설정
@@ -12,5 +17,3 @@
    1. ```pip install --upgrade pip``` 입력
    2. ```pip install -r requirements.txt``` 입력
 ---
-# X-ray 스마트팜 플랫폼
-
