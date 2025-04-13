@@ -11,4 +11,6 @@
 3. 패키지 설치(pip)
    1. ```pip install --upgrade pip``` 입력
    2. ```pip install -r requirements.txt``` 입력
+---
+# X-ray 스마트팜 플랫폼
 
